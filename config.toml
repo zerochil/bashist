@@ -1,0 +1,27 @@
+baseurl = "https://www.example.com/"
+title = "Bashist"
+author = "David Hamp-Gonsalves"
+canonifyurls = true
+languagecode = "en"
+theme = "tale"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Bashist"
+  disableWebFonts = true
+
+[menu]
+	[[menu.main]]
+	  identifier = "about"
+	  name = "About"
+	  title = "About"
+	  url = "/about/"
+	  weight = 0
+	[[menu.main]]
+	  name = "Posts"
+	  title = "Posts"
+	  url = "/posts/"
+	  weight = 1
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Images on Bashist</title>
+    <link>https://www.example.com/categories/images/</link>
+    <description>Recent content in Images on Bashist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/categories/images/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feature Image</title>
+      <link>https://www.example.com/posts/feature-image/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/posts/feature-image/</guid>
+      <description>The Hugo Kiera theme now supports featured images. To use the feature, set the images parameter in a page&amp;rsquo;s frontmatter.
+(Note that this is required to be an array, even though only the first image is used. This is to provide compatability with the built-in Twitter Card shortcode.)</description>
+    </item>
+    
+    <item>
+      <title>Image Style Guide</title>
+      <link>https://www.example.com/posts/image-content/</link>
+      <pubDate>Tue, 14 Nov 2017 08:08:17 -0500</pubDate>
+      
+      <guid>https://www.example.com/posts/image-content/</guid>
+      <description>Veniam est eu adipisicing reprehenderit do sit sint elit sint. Tempor laborum ut dolore aliqua. Commodo eu qui sint magna veniam laborum. Ad cupidatat do proident ex veniam amet Lorem. Officia laboris aute fugiat id consequat culpa ullamco labore ea amet ad. Occaecat quis dolor commodo pariatur cillum et id id cupidatat officia.
+Magna incididunt proident cupidatat cupidatat enim consectetur sunt. Ipsum velit aliqua ex ipsum qui labore magna. Ea nisi anim ad culpa Lorem occaecat ex cupidatat duis labore officia dolor.</description>
+    </item>
+    
+  </channel>
+</rss>
